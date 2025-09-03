@@ -13,13 +13,15 @@ From AWS Cloud Practitioner to Kubernetes & Terraform, I’m documenting every s
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?logo=jenkins)
+![Python](https://img.shields.io/badge/Python-Scripting-blue?logo=python)
+![Linux](https://img.shields.io/badge/Linux-OS-black?logo=linux)
 
 ---
 
 ## 📓 Daily Logs
 Tracking my DevOps & Cloud journey, day by day:  
-- [Day 1 – Cloud Foundations & Python Kickoff](/blob/main/logs/day1.md)  
-- Day 2 – coming soon...
+- [Day 1 – Cloud Foundations & Python Kickoff](daily-logs/daily-log-1.md)  
+- Day 2 – coming soon...  
 
 ---
 
@@ -27,6 +29,7 @@ Tracking my DevOps & Cloud journey, day by day:
 - Resource Optimizer Agent – coming soon  
 - Cost Management Bot – coming soon  
 - CI/CD Pipeline Manager – coming soon  
+- Auto-Scaling Assistant – coming soon  
 
 ---
 
@@ -36,8 +39,10 @@ Land a **Junior DevOps/Cloud Engineer** role by Jan 2026 while scaling **ZiThand
 ---
 
 ## 📄 Roadmap
-📥 [Cloud DevOps Roadmap 2025.pdf](Cloud%20Devops%20Roadmap%202025.pdf)  
+📥 [Cloud DevOps Roadmap 2025.pdf] [Cloud Devops Roadmap 2025 (1).pdf](https://github.com/user-attachments/files/22118418/Cloud.Devops.Roadmap.2025.1.pdf)
+ 
 
 ---
 
-🔗 Connect with me: [LinkedIn](https://www.linkedin.com//solomon-baloyi-86b440110/) | [GitHub](https://github.com/MthunzeeBaloyi)  
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/solomon-baloyi-86b440110/) | [GitHub](https://github.com/MthunzeeBaloyi)  
+
