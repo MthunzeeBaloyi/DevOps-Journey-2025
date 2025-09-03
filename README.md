@@ -18,7 +18,7 @@ From AWS Cloud Practitioner to Kubernetes & Terraform, I’m documenting every s
 
 ## 📓 Daily Logs
 Tracking my DevOps & Cloud journey, day by day:  
-- [Day 1 – Cloud Foundations & Python Kickoff](daily-logs/daily-log-1.md)  
+- [Day 1 – Cloud Foundations & Python Kickoff](/blob/main/logs/day1.md)  
 - Day 2 – coming soon...
 
 ---
