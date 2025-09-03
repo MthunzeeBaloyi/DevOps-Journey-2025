@@ -1,13 +1,43 @@
-🚀 Solomon Baloyi | DevOps & Cloud Engineer in the Making  
+# 🚀 Solomon Baloyi | DevOps & Cloud Engineer in the Making
 📍 Pretoria, South Africa  
 📅 On a mission: 8+ certs, 10+ projects, job-ready by Jan 2026  
 
 I’m building my future—one line of code, one lab, one GitHub commit at a time.  
 From AWS Cloud Practitioner to Kubernetes & Terraform, I’m documenting every step.  
 
-🔧 Learning: AWS, Docker, Jenkins, Kubernetes, Terraform  
-🧪 Building: CI/CD pipelines, automation bots, cloud cost tools  
-🎯 Goal: Junior DevOps/Cloud Engineer   
+---
 
+## 🔧 Tech Stack (Learning & Building)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?logo=jenkins)
 
-View my [Cloud Devops Roadmap 2025.pdf](https://github.com/user-attachments/files/22102148/Cloud.Devops.Roadmap.2025.pdf)
+---
+
+## 📓 Daily Logs
+Tracking my DevOps & Cloud journey, day by day:  
+- [Day 1 – Cloud Foundations & Python Kickoff](daily-logs/daily-log-1.md)  
+- Day 2 – coming soon...
+
+---
+
+## 🛠️ Projects (Work in Progress)
+- Resource Optimizer Agent – coming soon  
+- Cost Management Bot – coming soon  
+- CI/CD Pipeline Manager – coming soon  
+
+---
+
+## 🎯 Goal
+Land a **Junior DevOps/Cloud Engineer** role by Jan 2026 while scaling **ZiThandi Creations** on the side.  
+
+---
+
+## 📄 Roadmap
+📥 [Cloud DevOps Roadmap 2025.pdf](Cloud%20Devops%20Roadmap%202025.pdf)  
+
+---
+
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com//solomon-baloyi-86b440110/) | [GitHub](https://github.com/MthunzeeBaloyi)  
