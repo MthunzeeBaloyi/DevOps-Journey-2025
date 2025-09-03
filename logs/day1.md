@@ -1,4 +1,4 @@
-### 📅 2025-09-05 – Cloud Foundations & Python Kickoff
+### 📅 2025-09-02 – Cloud Foundations & Python Kickoff
 
 🎯 **Focus Areas:** AWS Cloud Practitioner Prep, Python for DevOps  
 ⏱️ **Total Study Time:** 8 hours (with breaks)  
@@ -32,4 +32,4 @@ Today I stopped planning and started **executing**. I paid for KodeKloud PRO bec
 - Start Linux Fundamentals on KodeKloud
 - Begin flashcards for AWS services (EC2, S3, VPC, IAM)
 
-📅 **Exam Countdown:** 27 days to AWS Cloud Practitioner!
+📅 **Exam Countdown:** 35 days to AWS Cloud Practitioner!
