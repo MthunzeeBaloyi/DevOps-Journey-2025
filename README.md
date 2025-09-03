@@ -1,5 +1,5 @@
 ![DevOps Journey Banner](banner.png)
-# 🚀 Solomon Baloyi | DevOps & Cloud Engineer in the Making
+# 🔑  DevOps & Cloud Engineer in the Making
 📍 Pretoria, South Africa  
 📅 On a mission: 8+ certs, 10+ projects, job-ready by Jan 2026  
 
