@@ -1,2 +1,3 @@
 pytest
 prometheus_client
+boto3
