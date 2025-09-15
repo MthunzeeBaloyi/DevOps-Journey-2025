@@ -1,7 +1,0 @@
-version: '3.8'
-services:
-  optimizer:
-    build: .
-    command: ["sample_data/sample_billing.json", "--key", "tags.env", "--top", "3"]
-    volumes:
-      - ./sample_data:/app/sample_data:ro
