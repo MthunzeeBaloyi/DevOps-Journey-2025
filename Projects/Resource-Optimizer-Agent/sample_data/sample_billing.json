@@ -1,0 +1,55 @@
+[
+  {
+    "resource_id": "i-012345",
+    "service": "EC2",
+    "cost": 45.12,
+    "tags": {
+      "env": "prod"
+    }
+  },
+  {
+    "resource_id": "i-0abcde",
+    "service": "EC2",
+    "cost": 32.5,
+    "tags": {
+      "env": "staging"
+    }
+  },
+  {
+    "resource_id": "bucket-1",
+    "service": "S3",
+    "cost": 5.3,
+    "tags": {
+      "env": "prod"
+    }
+  },
+  {
+    "resource_id": "db-1",
+    "service": "RDS",
+    "cost": 21.0,
+    "tags": {
+      "env": "prod"
+    }
+  },
+  {
+    "resource_id": "lambda-1",
+    "service": "Lambda",
+    "cost": 2.2,
+    "tags": {
+      "env": "dev"
+    }
+  },
+  {
+    "resource_id": "bucket-2",
+    "service": "S3",
+    "cost": 3.7
+  },
+  {
+    "resource_id": "i-0zzzz",
+    "service": "EC2",
+    "cost": 12.0,
+    "tags": {
+      "env": "prod"
+    }
+  }
+]
