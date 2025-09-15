@@ -3,8 +3,12 @@ name: Python CI - Resource Optimizer
 on:
   pull_request:
     branches: [ main ]
+    paths:
+      - 'Projects/Rseource-Optimizer-Agent/**'
   push:
     branches: [ main ]
+    paths:
+      - 'Projects/Resource-Optimizer-Agent/**'
 
 jobs:
   test:
