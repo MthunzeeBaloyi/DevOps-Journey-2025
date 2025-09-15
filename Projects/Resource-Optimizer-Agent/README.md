@@ -1,26 +1,31 @@
-# Resource Optimizer Agent — MVP (Updated)
+# Resource Optimizer Agent — MVP
 
-**Purpose:** Small Python tool that analyzes cloud billing/usage JSON and surfaces the top cost drivers (by service, resource or nested tag).
+**Solomon Baloyi — DevOps / Cloud Portfolio Project**
 
-## What’s included
-- `src/optimizer.py` — core logic with dot-notation nested key support (e.g., tags.env)
-- `sample_data/sample_billing.json` — sample input data
-- `tests/test_optimizer.py` — pytest tests
-- `requirements.txt` — minimal dependencies (pytest)
-- `Dockerfile` — containerize the optimizer for local runs
-- `docker-compose.yml` — convenience compose file for local development
-- `issues/TODOs.md` — project tasks and roadmap
+A small CLI tool that reads cloud billing-like JSON and summarizes cost by a key (supports nested keys like `tags.env`). Built as a portfolio piece to demonstrate Python, testing, Docker, and CI.
 
-## Quick start (local)
+---
+
+## Features
+- Aggregate costs by any field (supports dot-notation, e.g. `tags.env`)
+- Optional download from S3 (`--s3-bucket` + `--s3-key`)
+- Simple CLI and JSON output
+- Unit tests with `pytest`
+- Dockerfile for local container runs
+- CI workflow (GitHub Actions) runs tests automatically
+
+---
+
+## Quickstart
+
+### Prerequisites
+- Python 3.10+
+- Docker (optional)
+- Git
+
+### Setup (local)
 ```bash
-# create venv (recommended)
+cd Projects/Resource-Optimizer-Agent
 python3 -m venv .venv
-source .venv/bin/activate  # macOS / Linux
+source .venv/bin/activate
 pip install -r requirements.txt
-
-# run tests
-pytest -q
-
-# run against sample data
-python -m src.optimizer sample_data/sample_billing.json --key tags.env --top 5 --output report.json
-```
