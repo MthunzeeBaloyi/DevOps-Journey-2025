@@ -1,7 +1,7 @@
 ![DevOps Journey Banner](banner.png)
 # 🔑  DevOps & Cloud Engineer in the Making
 📍 Pretoria, South Africa  
-📅 On a mission: 8+ certs, 10+ projects, job-ready by Jan 2026  
+📅 On a mission: 8+ certs, 10+ projects - Ready ? Here I come.  
 
 I’m building my future—one line of code, one lab, one GitHub commit at a time.  
 From AWS Cloud Practitioner to Kubernetes & Terraform, I’m documenting every step.  
@@ -19,18 +19,12 @@ From AWS Cloud Practitioner to Kubernetes & Terraform, I’m documenting every s
 
 ---
 
-## 📓 Daily Logs
-Tracking my DevOps & Cloud journey, day by day:  
-- [Day 1 – Cloud Foundations & Python Kickoff](daily-logs/daily-log-1.md)  
-- Day 2 – coming soon...  
+## 📓 Progress tracker
+One certification / course / lab / project at a time — steady progress toward the goal.
+- Current: AWS Cloud Practitioner (exam scheduled for Oct 2025)
+- Learning: Python, Linux, Docker, Kubernetes, Terraform
+- Projects: Resource Optimizer Agent (v0.1), CI/CD Pipeline Manager, Cost Management Bot
 
----
-
-## 🛠️ Projects (Work in Progress)
-- Resource Optimizer Agent – coming soon  
-- Cost Management Bot – coming soon  
-- CI/CD Pipeline Manager – coming soon  
-- Auto-Scaling Assistant – coming soon  
 
 ---
 
