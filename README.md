@@ -21,7 +21,7 @@ From AWS Cloud Practitioner to Kubernetes & Terraform, I’m documenting every s
 
 ## 📓 Progress tracker
 One certification / course / lab / project at a time — steady progress toward the goal.
-- Current: AWS Cloud Practitioner (exam scheduled 02 Oct 2025)
+- Current: AWS Cloud Practitioner (exam scheduled for Oct 2025)
 - Learning: Python, Linux, Docker, Kubernetes, Terraform
 - Projects: Resource Optimizer Agent (v0.1), CI/CD Pipeline Manager, Cost Management Bot
 
