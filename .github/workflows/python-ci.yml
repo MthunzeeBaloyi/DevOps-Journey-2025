@@ -1,20 +1,16 @@
 name: Python CI - Resource Optimizer
 
 on:
-  pull_request:
-    branches: [ main ]
-    paths:
-      - 'Projects/Resource-Optimizer-Agent/**'
   push:
     branches: [ main ]
-    paths:
-      - 'Projects/Resource-Optimizer-Agent/**'
+  pull_request:
+    branches: [ main ]
 
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python 3.10
