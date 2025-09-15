@@ -1,12 +1,14 @@
 name: Python CI - Resource Optimizer
 
-<<<<<<< HEAD
-=======
 on:
   pull_request:
     branches: [ main ]
+    paths:
+      - 'Projects/Resource-Optimizer-Agent/**'
   push:
     branches: [ main ]
+    paths:
+      - 'Projects/Resource-Optimizer-Agent/**'
 
 jobs:
   test:
@@ -28,4 +30,3 @@ jobs:
       - name: Run pytest
         run: |
           pytest -q Projects/Resource-Optimizer-Agent
->>>>>>> origin/main
