@@ -29,3 +29,13 @@ cd Projects/Resource-Optimizer-Agent
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+### Demo UI (Streamlit)
+A demo Streamlit app is available at `Projects/Resource-Optimizer-Agent/ui/streamlit_app.py`.
+
+Run locally:
+```bash
+cd Projects/Resource-Optimizer-Agent
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt streamlit pandas boto3
+streamlit run ui/streamlit_app.py
