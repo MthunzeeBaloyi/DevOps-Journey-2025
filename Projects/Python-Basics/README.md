@@ -1,4 +1,4 @@
-!(Python-cert.pdf)
+![Python Basics (KodeKloud)](Python-cert.png)
 
 # Python Basics — KodeKloud (Artifacts)
 
