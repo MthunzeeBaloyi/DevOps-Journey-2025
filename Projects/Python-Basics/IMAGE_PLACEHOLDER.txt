@@ -1,0 +1,1 @@
+Add your KodeKloud Python certificate image here as 'Projects/Python-Basics/kodekloud-python-cert.png'
