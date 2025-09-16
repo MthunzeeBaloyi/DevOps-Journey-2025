@@ -1,15 +1,23 @@
+![Python Basics (KodeKloud)](kodekloud-python-cert.png)
+
 # Python Basics — KodeKloud (Artifacts)
 
-This folder contains curated artifacts for the **Python Basics** course you completed on KodeKloud.
-Add these files to your `DevOps-Journey-2025` repo under `Projects/Python-Basics/`.
+> Curated artifacts from the **Python Basics** course I completed on KodeKloud (Sep 2025).  
+> These are short, focused pieces of work that prove I can use Python for automation, parsing, and small tooling — the exact skills I used to build the Resource Optimizer Agent demo.
 
-**What to include from this package**
-- README.md (this file)
-- notes.md — short summary of skills learned
-- code/ — small example scripts and a sample exercise
-- linkedin_post.md — ready-to-post LinkedIn copy
-- commit_and_push.sh — helper script to create branch, commit, and push
+---
 
-**How to use**
-1. From your repo root run this script to create the files, then run the included helper or do manual git steps.
+## 📂 What’s in this folder
+- `README.md` — this file  
+- `notes.md` — short summary of skills learned and immediate applications  
+- `code/` — small example scripts:
+  - `hello_world.py` — minimal CLI & function example
+  - `summarize_example.py` — tiny cost-summariser pattern like Resource Optimizer Agent  
+- `requirements.txt` — dev/test dependencies (pytest)
+- `linkedin_post.md` — ready-to-copy LinkedIn post text
+- `commit_and_push.sh` — helper to create a branch, commit, and push
+- `IMAGE_PLACEHOLDER.txt` — where to drop your KodeKloud cert image
+
+---
+
 
