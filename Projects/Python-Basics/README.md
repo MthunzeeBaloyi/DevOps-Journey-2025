@@ -1,4 +1,4 @@
-[![Python Basics (KodeKloud)](Projects/Python-Basics/kodekloud-python-cert.png)](Projects/Python-Basics/Python-cert.pdf)
+python-cert.png
 
 # Python Basics — KodeKloud (Artifacts)
 
