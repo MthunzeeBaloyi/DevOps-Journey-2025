@@ -1,4 +1,4 @@
-python-cert.png
+![Python Basics Certificate](Python-cert.png)
 
 # Python Basics — KodeKloud (Artifacts)
 
@@ -19,18 +19,6 @@ python-cert.png
 - `linkedin_post.md` — ready-to-copy LinkedIn copy
 - `commit_and_push.sh` — helper script to create a branch, commit, and push
 
-python code/hello_world.pys.txt
-feat/python-basics
-A  Projects/Python-Basics/Python-cert.png
-AA Projects/Python-Basics/README.md
-M  Projects/Resource-Optimizer-Agent/README.md
-A  assets/images/Resource-Optimizer-Agent.png
-?? .git-backups/
-?? Projects/Python-Basics/README.md.bak
-?? add_python_basics_and_push.sh
-'Projects/Python-Basics/README.md' -> 'Projects/Python-Basics/README.md.bak'
-Backups created: .git-backups/merge-* and Projects/Python-Basics/README.md.bak
-> exit
-> 
+---
 
 
