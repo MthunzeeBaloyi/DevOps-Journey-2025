@@ -1,3 +1,9 @@
+## 🔗 Live demo
+Try the live Streamlit demo for **Resource Optimizer Agent**:  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-orange)](https://devops-journey-2025-wgejdo27fum2ckakg26ww2.streamlit.app/)
+
+(Or run locally: `streamlit run Projects/Resource-Optimizer-Agent/ui/streamlit_app.py`)
+
 # Resource Optimizer Agent — MVP
 
 **Solomon Baloyi — DevOps / Cloud Portfolio Project**

@@ -1,14 +1,36 @@
+[![Python Basics (KodeKloud)](Projects/Python-Basics/kodekloud-python-cert.png)](Projects/Python-Basics/Python-cert.pdf)
+
 # Python Basics — KodeKloud (Artifacts)
 
-This folder contains curated artifacts for the **Python Basics** course you completed on KodeKloud.
-Add these files to your `DevOps-Journey-2025` repo under `Projects/Python-Basics/`.
+> Curated artifacts from the **Python Basics** course I completed on KodeKloud (Sep 2025).  
+> Small, focused examples that show I can use Python for automation and tooling — the same skills used to build the Resource Optimizer Agent demo.
 
-**What to include from this package**
-- README.md (this file)
-- notes.md — short summary of skills learned
-- code/ — small example scripts and a sample exercise
-- linkedin_post.md — ready-to-post LinkedIn copy
-- commit_and_push.sh — helper script to create branch, commit, and push
+---
 
-**How to use**
-1. From your repo root run this script to create the files, then run the included helper or do manual git steps.
+## 📂 What’s in this folder
+- `README.md` — this file  
+- `Python-cert.pdf` — full certificate (PDF)  
+- `kodekloud-python-cert.png` — optional preview image (clickable thumbnail links to the PDF)  
+- `notes.md` — short summary of skills learned and immediate applications  
+- `code/` — example scripts:
+  - `hello_world.py` — minimal CLI & function example
+  - `summarize_example.py` — tiny cost-summariser pattern similar to the Resource Optimizer Agent  
+- `requirements.txt` — dev/test dependencies (pytest)
+- `linkedin_post.md` — ready-to-copy LinkedIn copy
+- `commit_and_push.sh` — helper script to create a branch, commit, and push
+
+python code/hello_world.pys.txt
+feat/python-basics
+A  Projects/Python-Basics/Python-cert.png
+AA Projects/Python-Basics/README.md
+M  Projects/Resource-Optimizer-Agent/README.md
+A  assets/images/Resource-Optimizer-Agent.png
+?? .git-backups/
+?? Projects/Python-Basics/README.md.bak
+?? add_python_basics_and_push.sh
+'Projects/Python-Basics/README.md' -> 'Projects/Python-Basics/README.md.bak'
+Backups created: .git-backups/merge-* and Projects/Python-Basics/README.md.bak
+> exit
+> 
+
+
