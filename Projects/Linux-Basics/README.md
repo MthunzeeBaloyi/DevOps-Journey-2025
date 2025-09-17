@@ -1,4 +1,4 @@
-[![Linux Basics (KodeKloud)](Projects/Linux-Basics/Linux-cert.png)](Projects/Linux-Basics/Linux-cert.png)
+![Linux Basics Certificate](Linux-cert.png)
 
 # Linux Basics — KodeKloud (Artifacts)
 
